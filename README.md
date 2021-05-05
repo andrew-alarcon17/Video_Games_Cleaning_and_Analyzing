@@ -9,17 +9,17 @@ For this project, I wanted to explore the sales of video games during the years 
 ## Data Analysis:
 Just by looking at overall game sales throughout this time period, we can see that Nintendo beats out all the competition by a landslide.
 
-<img src="https://github.com/andrew-alarcon17/Video_Games_Cleaning_and_Analyzing/blob/master/Video_Games_Charts/Top_10_Publishers_of_All_Time.png" width="300"> 
+<img src="https://github.com/andrew-alarcon17/Video_Games_Cleaning_and_Analyzing/blob/master/Video_Games_Charts/Top_10_Publishers_of_All_Time.png" width="500"> 
 
 
 But diving a little deeper, we can see just how these publishers performed in terms of game sales for each individual year. Nintendo still comes out on top for most years, sometimes losing to publishers like Sony and EA.
 
-<img src="https://github.com/andrew-alarcon17/Video_Games_Cleaning_and_Analyzing/blob/master/Video_Games_Charts/Publisher_Sales_by_Year.png" width="300"> 
+<img src="https://github.com/andrew-alarcon17/Video_Games_Cleaning_and_Analyzing/blob/master/Video_Games_Charts/Publisher_Sales_by_Year.png" width="600"> 
 
 
 What about the genre of games? Which were the ones that performed the best during these years?
 
-<img src="https://github.com/andrew-alarcon17/Video_Games_Cleaning_and_Analyzing/blob/master/Video_Games_Charts/Game_Sales_by_Genre.png" width="300"> 
+<img src="https://github.com/andrew-alarcon17/Video_Games_Cleaning_and_Analyzing/blob/master/Video_Games_Charts/Game_Sales_by_Genre.png" width="600"> 
 
 Action games tend to win people's hearts dating back since the early 2000's. Its quite interesting because that is around the time when video game consoles started introducing 3D visuals, a field where an action game could thrive in. It makes more sense for the 90's to have Platform type games to dominate a little more, given the 2D landscape nature of graphical limitations.
 
