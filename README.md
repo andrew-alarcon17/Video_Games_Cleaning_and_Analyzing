@@ -40,6 +40,6 @@ Based on these two charts, it looks as though Electronic Arts released the most 
 
 Now, where do game sales perform the best?
 
-<img src="https://github.com/andrew-alarcon17/Video_Games_Cleaning_and_Analyzing/blob/master/Video_Games_Charts/Total_Sales_by_Region_by_Year.png" width="600"> 
+<img src="https://github.com/andrew-alarcon17/Video_Games_Cleaning_and_Analyzing/blob/master/Video_Games_Charts/Total_Sales_by_Region_by_Year.png" width="700"> 
 
 Looks like North American sales dominated for nearly every year during 1980 to 2016.
